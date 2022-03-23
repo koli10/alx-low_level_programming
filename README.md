@@ -1,1 +1,1 @@
-C Projects
+Pointers arrays and strings
